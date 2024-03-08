@@ -1,0 +1,141 @@
+pub const USERS_SAMPLE: &str = r#"
+    [
+        {
+            "id": 183,
+            "nickname": "andrew",
+            "gravatar_id": "8ddbf811da78bb0daeeb3cacd7cf743f",
+            "github_profile": "https://github.com/andrew",
+            "contributions_count": 15,
+            "link": "http://localhost:3000/users/andrew",
+            "organisations": [
+                {
+                    "login": "eius",
+                    "avatar_url": "https://1.gravatar.com/avatar/.....",
+                    "link": "http://localhost:3000/organisations/5"
+                },
+                {
+                    "login": "corrupti",
+                    "avatar_url": "https://1.gravatar.com/avatar/.....",
+                    "link": "http://localhost:3000/organisations/66"
+                },
+                {
+                    "login": "soluta",
+                    "avatar_url": "https://1.gravatar.com/avatar/.....",
+                    "link": "http://localhost:3000/organisations/86"
+                }
+            ],
+            "pull_requests": [
+                {
+                    "title": "molestiae",
+                    "issue_url": "http://braunhilpert.org/hardy",
+                    "repo_name": "fugiat",
+                    "body": "Velit dicta ratione maxime rerum qui aut neque.",
+                    "created_at": "2013-11-25T17:47:32.249Z"
+                },
+                {
+                    "title": "eveniet",
+                    "issue_url": "http://jacobshagenes.name/alba_hintz",
+                    "repo_name": "maiores",
+                    "body": "Assumenda quo veritatis non vero fugiat voluptatem rerum.",
+                    "created_at": "2013-11-26T17:47:32.244Z"
+                },
+                {
+                    "title": "et",
+                    "issue_url": "http://hane.info/dameon",
+                    "repo_name": "ipsam",
+                    "body": "Omnis temporibus quia nobis quia labore officiis.",
+                    "created_at": "2013-11-27T17:47:32.239Z"
+                },
+                {
+                    "title": "eos",
+                    "issue_url": "http://glover.info/zella_erdman",
+                    "repo_name": "tenetur",
+                    "body": "Quibusdam quia autem ipsam. Maiores dolor dolorem rerum sunt.",
+                    "created_at": "2013-11-28T17:47:32.234Z"
+                },
+                {
+                    "title": "voluptatum",
+                    "issue_url": "http://gutkowski.info/cecil",
+                    "repo_name": "eos",
+                    "body": "Atque qui minus officiis facere. Nam consequatur consequuntur.",
+                    "created_at": "2013-12-09T17:47:32.170Z"
+                }
+            ]
+        },
+        {
+            "id": 120,
+            "nickname": "dr-zion-schaefer",
+            "gravatar_id": "fde332d18b14c52bc41b50f4952f075a",
+            "github_profile": "https://github.com/dr-zion-schaefer",
+            "contributions_count": 20,
+            "link": "http://localhost:3000/users/dr-zion-schaefer",
+            "organisations": [
+                {
+                    "login": "consequuntur",
+                    "avatar_url": "https://1.gravatar.com/avatar/....",
+                    "link": "http://localhost:3000/organisations/75"
+                },
+                {
+                    "login": "tempore",
+                    "avatar_url": "https://1.gravatar.com/avatar/....",
+                    "link": "http://localhost:3000/organisations/76"
+                }
+            ],
+            "pull_requests": [
+                {
+                    "title": "voluptatem",
+                    "issue_url": "http://runolfonvonrueden.net/rebecca",
+                    "repo_name": "ipsam",
+                    "body": "Fuga ut quo in et nulla quae. Ullam tempora vitae quis.",
+                    "created_at": "2013-11-20T17:47:27.855Z"
+                },
+                {
+                    "title": "omnis",
+                    "issue_url": "http://kunde.org/lea_yundt",
+                    "repo_name": "porro",
+                    "body": "Qui nesciunt laudantium rerum voluptatem corporis ratione.",
+                    "created_at": "2013-11-21T17:47:27.850Z"
+                },
+                {
+                    "title": "expedita",
+                    "issue_url": "http://hirthe.name/josefina",
+                    "repo_name": "numquam",
+                    "body": "Reprehenderit nostrum laudantium quis ducimus ut.",
+                    "created_at": "2013-12-09T17:47:27.691Z"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "nickname": "kaitlin-walter",
+            "gravatar_id": "0f9f17758e76da17ff4ade389e566321",
+            "github_profile": "https://github.com/kaitlin-walter",
+            "contributions_count": 20,
+            "link": "http://localhost:3000/users/kaitlin-walter",
+            "organisations": [],
+            "pull_requests": [
+                {
+                    "title": "quia",
+                    "issue_url": "http://robel.info/pamela",
+                    "repo_name": "aliquid",
+                    "body": "Quae beatae dolores mollitia qui sapiente officiis non.",
+                    "created_at": "2013-12-05T13:15:05.000Z"
+                },
+                {
+                    "title": "modi",
+                    "issue_url": "http://torp.info/marta",
+                    "repo_name": "ut",
+                    "body": "Pariatur non placeat non magnam.",
+                    "created_at": "2013-12-05T13:15:05.000Z"
+                },
+                {
+                    "title": "aut",
+                    "issue_url": "http://homenick.org/lolita.rosenbaum",
+                    "repo_name": "id",
+                    "body": "Sed sit maiores minus molestiae quod fuga ea.",
+                    "created_at": "2013-12-05T13:15:05.000Z"
+                }
+            ]
+        }
+    ]
+"#;
